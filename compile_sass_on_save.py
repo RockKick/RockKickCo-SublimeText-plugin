@@ -2,7 +2,6 @@ import sublime
 import sublime_plugin
 import functools
 import os
-import re
 import subprocess as sp
 
 
@@ -32,15 +31,8 @@ class CompileSassOnSaveListener(sublime_plugin.EventListener):
 
         sub_dir = os.path.dirname(parts[1])
 
-        # one off for v5
-        # if '/assets/styles/sass/v5/' in path:
-        #     output_dir = os.path.dirname(path.replace('/styles/sass/v5', '/css_v5')) + '/'
-        #     sub_dir = os.path.dirname(path.split('/styles/sass/v5/')[1])
-
-        # if sub directories, make them part of the file name  ie: a/b/c.css -> a_b_c.css
+        # if sub_dir add it to output_dir to maintain folder structure
         if sub_dir:
-            # file_name = sub_dir + "/" + file_name
-            # file_name = re.sub("/", "_", file_name)
             output_dir += sub_dir
 
         output_file = output_dir + file_name[:-5] + ".css"

@@ -1,0 +1,1057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_fol",
+				"get_followees"
+			],
+			[
+				"get_",
+				"get_followers"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"sign_up",
+				"sign_up_form"
+			],
+			[
+				"email_addres",
+				"email_address_input"
+			],
+			[
+				"canon",
+				"canonical_url"
+			],
+			[
+				"key",
+				"keywords_message"
+			],
+			[
+				"fin",
+				"find_friends_google"
+			],
+			[
+				"find_fri",
+				"find_friends_twitter"
+			],
+			[
+				"find_friends",
+				"find_friends_facebook"
+			],
+			[
+				"find_friends_",
+				"find_friends_facebook"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sess",
+				"session_userdata"
+			],
+			[
+				"AUTH_TYPE",
+				"AUTH_TYPE_EMAIL"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"author",
+				"authorization_code"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-family-sans-serif"
+			],
+			[
+				"facebok",
+				"facebook_login_url"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"font",
+				"font-family-sans-serif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/config.rb",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/instructions_chrome_pc.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/instructions_ff_mac.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/instructions_ff_pc.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/instructions_safari_mac.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_head.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/home/features.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/log_in/lightbox.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/mobile/home/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/profile/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/system/core/Config.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/system/core/Security.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_js.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/list_item/list_item_form.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/global.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly.it/bookmarklet/listly.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/log_in_form.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/friends/find_friends.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/bookmarklet/add_item.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/bookmarklet.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/sign_up/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/dev/bookmarklet.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/list_item_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/log_in/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/friends.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/friends/invite_friends.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/routes.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/bookmarklet/log_in.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/log_in/log_in.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/sign_up/sign_up.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/list_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/oauth_facebook_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/oauth_twitter_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/password_reset_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/user_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/instructions_chrome_mac.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/models/affiliate_model.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/gui.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/css/bookmarklet/log_in.css",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/bookmarklet/log_in.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/list/thank_you_form.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/list/share_form.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/invites/user_invites_lightbox.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/settings/settings.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/home/home.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/home.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/settings.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/user.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/sign_up.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/classes/utils/string_util.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/log_in.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/system/helpers/html_helper.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/list/list.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/list_item/detail_view.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/errors/404.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/core/LS_Controller.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/list_item.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/listly.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/.htaccess",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/css/listly.css",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/reset.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/item_detail.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/css/item_detail.css",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_footer.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/add_item.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/settings/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/assets.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/dev/assets.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/staging/assets.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/contact/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/libraries/Imagegrabber.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/production/config.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/email/beta_subscriber_thank_you_html.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/email/subscriber_invite_code_text.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/home/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/mobile/global/global_footer.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/oembed/embed_code.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/profile/home.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/templates/template_email.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/features/features.js",
+		"/Users/ryanhefner/Documents/github/listly-web/development/Safari Extension/Listly.safariextension/Info.plist",
+		"/Users/ryanhefner/Documents/github/listly-web/development/Safari Extension/Listly.safariextension/main.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/mobile/bookmarklet/log_in.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/admin/users.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/invite.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/config/facebook.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/admin/admin.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/find_friends_search.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/libraries/twitteroauth.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/templates/template_blank.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/tweet_test.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/twitter.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/user/users_list.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/user/users_list.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/common/users_listing.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/.php/5.3/phprc",
+		"/Users/ryanhefner/Documents/github/listly-web/documents/Listly - Account Information.rtf",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/templates/template_standard.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_analytics.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/config/constants.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/libraries/twitteroauth/twitteroauth/twitteroauth.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/global/application/libraries/twitteroauth/callback.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/common/users_listing.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/friends/find.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/typography.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/admin/main.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/friends.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/config/profiler.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/bookmarklet/create_list.php",
+		"/Users/ryanhefner/Documents/Sublime Projects/Rockabus (trunk).sublime-project",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_header.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/global/global_notification.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/home.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/invite_friends_twitter.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/controllers/profile.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/invite_friends_facebook.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/friends/search_users.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/search_friends.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/find.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly.it/index.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/api/application/controllers/example.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/sass/_constants.scss",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/assets.listly.it/js/listly/controllers/friends/invite.js",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/find_friends_facebook.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/find_friends_google.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/find_friends_twitter.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/listly-site/application/views/friends/invite_friends_email.php",
+		"/Users/ryanhefner/Documents/github/listly-web/deploy/listly-app/applications/api/application/core/REST_Controller.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"deploy/assets.listly.it/sass",
+			"deploy/assets.listly.it",
+			"",
+			"deploy/listly-app/listly-site/controllers",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Vimeo",
+			"input[type=submit]",
+			"bookmarklet/log_in",
+			"$_SERVER['HTTPS']",
+			"friends/find",
+			"TODO",
+			"TOOD",
+			"validateUrl",
+			"validateEmail",
+			"string_util",
+			"validateEmail",
+			"string_utils",
+			"validateEmail",
+			".notfication",
+			"img(",
+			"echo img(",
+			"http:",
+			"<<<",
+			">>>",
+			"sup",
+			".sup",
+			"sup",
+			"memory_limit",
+			"Add to Listly",
+			"connect",
+			"twitteroauth",
+			"connection",
+			"connect",
+			"ajax",
+			"lightbox",
+			"add_item_form",
+			"submit",
+			"input[type=text]",
+			"type=search",
+			"mod_options",
+			"id=\"main\"",
+			"#main",
+			"#header",
+			"#footer",
+			"users_list",
+			".users",
+			"ind_context",
+			".users",
+			"ajax",
+			"$this->load->view(",
+			"../../global/applications",
+			"../../global/application",
+			"user_follower_model",
+			"<?php",
+			"show_404",
+			"session_",
+			"user_notifications_model",
+			"user_notification_model",
+			"include_once(",
+			"user_notifications_model",
+			"model/",
+			"user_notifications_model",
+			"include_once",
+			"get_cookie(",
+			"tools",
+			"connect_twitter",
+			"$this->load->model(",
+			"oauth_info",
+			"save_status",
+			"Friend us",
+			"dev.listly",
+			"$.cookie",
+			"connect_facebook",
+			"facebook",
+			"facebook_login_url",
+			"head_tags",
+			".buy_now",
+			"@include transition",
+			"button.close",
+			"listly.it",
+			".live(",
+			"cur_user",
+			"$user",
+			"user_model",
+			".button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"global.js",
+				"deploy/assets.listly.it/js/listly/global.js"
+			],
+			[
+				"gui.scs",
+				"deploy/assets.listly.it/sass/gui.scss"
+			],
+			[
+				"lightbox.php",
+				"deploy/listly-app/applications/listly-site/application/views/log_in/lightbox.php"
+			],
+			[
+				"bookmarklet/log",
+				"deploy/assets.listly.it/sass/bookmarklet/log_in.scss"
+			],
+			[
+				"users_list",
+				"deploy/listly-app/applications/listly-site/application/views/common/users_listing.php"
+			],
+			[
+				"user.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/user.php"
+			],
+			[
+				"routes",
+				"deploy/listly-app/applications/listly-site/application/config/routes.php"
+			],
+			[
+				"user_model.",
+				"deploy/listly-app/applications/global/application/models/user_model.php"
+			],
+			[
+				"password_reset",
+				"deploy/listly-app/applications/global/application/models/password_reset_model.php"
+			],
+			[
+				"oauth_twitter",
+				"deploy/listly-app/applications/global/application/models/oauth_twitter_model.php"
+			],
+			[
+				"oauth_face",
+				"deploy/listly-app/applications/global/application/models/oauth_facebook_model.php"
+			],
+			[
+				"list_model",
+				"deploy/listly-app/applications/global/application/models/list_model.php"
+			],
+			[
+				"list_item_model",
+				"deploy/listly-app/applications/global/application/models/list_item_model.php"
+			],
+			[
+				"gui.scss",
+				"deploy/assets.listly.it/sass/gui.scss"
+			],
+			[
+				"bookmarklet/log_in.css",
+				"deploy/assets.listly.it/css/bookmarklet/log_in.css"
+			],
+			[
+				"sign_up.php",
+				"deploy/listly-app/applications/listly-site/application/views/sign_up/index.php"
+			],
+			[
+				"bookmarklet.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/bookmarklet.php"
+			],
+			[
+				"add_item.js",
+				"deploy/assets.listly.it/js/listly/controllers/bookmarklet/add_item.js"
+			],
+			[
+				"bookmarklet/log_in.php",
+				"deploy/listly-app/applications/listly-site/application/views/bookmarklet/log_in_form.php"
+			],
+			[
+				"log_in.js",
+				"deploy/assets.listly.it/js/listly/controllers/bookmarklet/log_in.js"
+			],
+			[
+				"log_in/li",
+				"deploy/listly-app/applications/listly-site/application/views/log_in/lightbox.php"
+			],
+			[
+				"log_in/index",
+				"deploy/listly-app/applications/listly-site/application/views/log_in/index.php"
+			],
+			[
+				"sign_up.js",
+				"deploy/assets.listly.it/js/listly/controllers/sign_up/sign_up.js"
+			],
+			[
+				"stringutil",
+				"deploy/assets.listly.it/js/listly/classes/utils/string_util.js"
+			],
+			[
+				"global_js",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_js.php"
+			],
+			[
+				"listly",
+				"deploy/listly.it/bookmarklet/listly.js"
+			],
+			[
+				"profile/index",
+				"deploy/listly-app/applications/listly-site/application/views/profile/index.php"
+			],
+			[
+				"global_head",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_head.php"
+			],
+			[
+				"listly.css",
+				"deploy/assets.listly.it/css/listly.css"
+			],
+			[
+				"reset",
+				"deploy/assets.listly.it/sass/reset.scss"
+			],
+			[
+				"gui",
+				"deploy/assets.listly.it/sass/gui.scss"
+			],
+			[
+				"item_detail",
+				"deploy/assets.listly.it/sass/item_detail.scss"
+			],
+			[
+				"detail",
+				"deploy/assets.listly.it/css/item_detail.css"
+			],
+			[
+				"list.js",
+				"deploy/assets.listly.it/js/listly/controllers/list/list.js"
+			],
+			[
+				"list_item_form",
+				"deploy/listly-app/applications/listly-site/application/views/list_item/list_item_form.php"
+			],
+			[
+				"ls_controll",
+				"deploy/listly-app/applications/listly-site/application/core/LS_Controller.php"
+			],
+			[
+				"list_item",
+				"deploy/listly-app/applications/listly-site/application/controllers/list_item.php"
+			],
+			[
+				"features.",
+				"deploy/listly-app/applications/listly-site/application/views/home/features.php"
+			],
+			[
+				"404",
+				"deploy/listly-app/applications/listly-site/application/views/errors/404.php"
+			],
+			[
+				"settings/index",
+				"deploy/listly-app/applications/listly-site/application/views/settings/index.php"
+			],
+			[
+				"add_item.php",
+				"deploy/listly-app/applications/listly-site/application/views/bookmarklet/add_item.php"
+			],
+			[
+				"global_footer",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_footer.php"
+			],
+			[
+				"contact/index",
+				"deploy/listly-app/applications/listly-site/application/views/contact/index.php"
+			],
+			[
+				"user_model",
+				"deploy/listly-app/applications/global/application/models/user_model.php"
+			],
+			[
+				"admin.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/admin/admin.php"
+			],
+			[
+				"add_item",
+				"deploy/assets.listly.it/js/listly/controllers/bookmarklet/add_item.js"
+			],
+			[
+				"twitteroauth",
+				"deploy/listly-app/applications/global/application/libraries/twitteroauth/twitteroauth/twitteroauth.php"
+			],
+			[
+				"oauth_tw",
+				"deploy/listly-app/applications/global/application/models/oauth_twitter_model.php"
+			],
+			[
+				"users.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/admin/users.php"
+			],
+			[
+				"home.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/home.php"
+			],
+			[
+				"facebook.",
+				"deploy/listly-app/applications/global/application/config/facebook.php"
+			],
+			[
+				"item_de",
+				"deploy/assets.listly.it/sass/item_detail.scss"
+			],
+			[
+				"assets",
+				"deploy/listly-app/applications/listly-site/application/config/dev/assets.php"
+			],
+			[
+				"bookmarklet",
+				"deploy/listly-app/applications/listly-site/application/config/dev/bookmarklet.php"
+			],
+			[
+				"list_item.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/list_item.php"
+			],
+			[
+				"sign_up/index",
+				"deploy/listly-app/applications/listly-site/application/views/sign_up/index.php"
+			],
+			[
+				"users_listing",
+				"deploy/listly-app/applications/listly-site/application/views/common/users_listing.php"
+			],
+			[
+				"home.sc",
+				"deploy/assets.listly.it/sass/home.scss"
+			],
+			[
+				"global_header",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_header.php"
+			],
+			[
+				"template_stan",
+				"deploy/listly-app/applications/listly-site/application/views/templates/template_standard.php"
+			],
+			[
+				"ls_con",
+				"deploy/listly-app/applications/listly-site/application/core/LS_Controller.php"
+			],
+			[
+				"find_friends_se",
+				"deploy/listly-app/applications/listly-site/application/views/friends/find_friends_search.php"
+			],
+			[
+				"find.js",
+				"deploy/assets.listly.it/js/listly/controllers/friends/find.js"
+			],
+			[
+				"oauth_ti",
+				"deploy/listly-app/applications/global/application/models/oauth_twitter_model.php"
+			],
+			[
+				"friends.sc",
+				"deploy/assets.listly.it/sass/friends.scss"
+			],
+			[
+				"friends.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/friends.php"
+			],
+			[
+				"profile.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/profile.php"
+			],
+			[
+				"oauth_mod",
+				"deploy/listly-app/applications/global/application/models/oauth_facebook_model.php"
+			],
+			[
+				"invite_friend",
+				"deploy/listly-app/applications/listly-site/application/views/friends/invite_friends_twitter.php"
+			],
+			[
+				"invites.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/invites.php"
+			],
+			[
+				"invite_friends",
+				"deploy/listly-app/applications/listly-site/application/views/friends/invite_friends_facebook.php"
+			],
+			[
+				"_constan",
+				"deploy/assets.listly.it/sass/_constants.scss"
+			],
+			[
+				"settings.sc",
+				"deploy/assets.listly.it/sass/settings.scss"
+			],
+			[
+				"gui.sc",
+				"deploy/assets.listly.it/sass/gui.scss"
+			],
+			[
+				"ls_cont",
+				"deploy/listly-app/applications/listly-site/application/core/LS_Controller.php"
+			],
+			[
+				"log_in.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/log_in.php"
+			],
+			[
+				"oauth_fa",
+				"deploy/listly-app/applications/global/application/models/oauth_facebook_model.php"
+			],
+			[
+				"user_notifi",
+				"deploy/listly-app/applications/global/application/models/user_notifications_model.php"
+			],
+			[
+				"settings.php",
+				"deploy/listly-app/applications/listly-site/application/controllers/settings.php"
+			],
+			[
+				"black",
+				"deploy/listly-app/applications/global/application/config/blacklist_usernames.php"
+			],
+			[
+				"twitter",
+				"deploy/listly-app/applications/listly-site/application/controllers/twitter.php"
+			],
+			[
+				"facebook_con",
+				"deploy/listly-app/applications/listly-site/application/controllers/facebook_controller.php"
+			],
+			[
+				"settings.js",
+				"deploy/assets.listly.it/js/listly/controllers/settings/settings.js"
+			],
+			[
+				"profile.sc",
+				"deploy/assets.listly.it/sass/profile.scss"
+			],
+			[
+				"home.js",
+				"deploy/assets.listly.it/js/listly/controllers/profile/profile_home.js"
+			],
+			[
+				"_const",
+				"deploy/assets.listly.it/sass/_constants.scss"
+			],
+			[
+				"facebook_",
+				"deploy/listly-app/applications/global/application/models/oauth_facebook_model.php"
+			],
+			[
+				"ls_control",
+				"deploy/listly-app/applications/listly-site/application/core/LS_Controller.php"
+			],
+			[
+				"baseface",
+				"deploy/listly-app/applications/global/application/libraries/base_facebook.php"
+			],
+			[
+				"facebook",
+				"deploy/listly-app/applications/global/application/libraries/facebook.php"
+			],
+			[
+				"ls_contr",
+				"deploy/listly-app/applications/listly-site/application/core/LS_Controller.php"
+			],
+			[
+				"log_in.sc",
+				"deploy/assets.listly.it/sass/log_in.scss"
+			],
+			[
+				"index.php",
+				"deploy/listly-app/applications/listly-site/application/views/log_in/index.php"
+			],
+			[
+				"signup.sc",
+				"deploy/assets.listly.it/sass/sign_up.scss"
+			],
+			[
+				"bookmarklet.scss",
+				"deploy/assets.listly.it/sass/mobile/bookmarklet.scss"
+			],
+			[
+				"sign_up.sc",
+				"deploy/assets.listly.it/sass/sign_up.scss"
+			],
+			[
+				"global.sc",
+				"deploy/assets.listly.it/sass/global.scss"
+			],
+			[
+				"user.sc",
+				"deploy/assets.listly.it/sass/users_list.scss"
+			],
+			[
+				"lightbox",
+				"deploy/listly-app/applications/listly-site/application/views/log_in/lightbox.php"
+			],
+			[
+				"bookmarklet.js",
+				"deploy/listly.it/bookmarklet/listly.js"
+			],
+			[
+				"sign_up/in",
+				"deploy/listly-app/applications/listly-site/application/views/sign_up/index.php"
+			],
+			[
+				"controllers/user",
+				"deploy/listly-app/applications/listly-site/application/controllers/user.php"
+			],
+			[
+				"templates",
+				"deploy/listly-app/applications/listly-site/application/views/templates/template_standard.php"
+			],
+			[
+				"assets.php",
+				"deploy/listly-app/applications/listly-site/application/config/assets.php"
+			],
+			[
+				"global_ana",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_analytics.php"
+			],
+			[
+				"home.css",
+				"deploy/assets.listly.it/css/home.css"
+			],
+			[
+				"bookmarklet/lo",
+				"deploy/listly.it/assets/js/bookmarklet/log_in.js"
+			],
+			[
+				"list/index",
+				"deploy/listly-app/applications/listly-site/application/views/list/index.php"
+			],
+			[
+				"global_footer.p",
+				"deploy/listly-app/applications/listly-site/application/views/global/global_footer.php"
+			],
+			[
+				"redi",
+				"deploy/listly-app/applications/listly-site/application/controllers/redirect.php"
+			],
+			[
+				"facebook.php",
+				"deploy/listly-app/applications/global/application/config/facebook.php"
+			],
+			[
+				"templat",
+				"deploy/listly-app/applications/listly-site/application/views/templates/template_standard.php"
+			],
+			[
+				"router",
+				"deploy/listly-app/system/core/Router.php"
+			],
+			[
+				"error_404",
+				"deploy/assets.listly.it/sass/error_404.scss"
+			],
+			[
+				"404.p",
+				"deploy/listly-app/applications/listly-site/application/views/errors/404.php"
+			],
+			[
+				"global",
+				"deploy/assets/sass/global.scss"
+			],
+			[
+				"_model",
+				"deploy/application/models/post_model.php"
+			],
+			[
+				"thoughts",
+				"deploy/application/controllers/thoughts.php"
+			],
+			[
+				"about.php",
+				"deploy/application/controllers/about.php"
+			],
+			[
+				"home",
+				"deploy/application/controllers/home.php"
+			],
+			[
+				"contact.php",
+				"deploy/application/controllers/contact.php"
+			],
+			[
+				"contact",
+				"deploy/assets/js/contact.js"
+			],
+			[
+				"linkp",
+				"deploy/application/libraries/Linkpanner.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
