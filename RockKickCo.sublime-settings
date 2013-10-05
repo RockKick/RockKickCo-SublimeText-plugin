@@ -1,3 +1,4 @@
 {
-	"compile_sass_on_save": true
+	"compile_sass_on_save": true,
+	"compile_compass_on_save": true
 }
