@@ -40,4 +40,4 @@ class CompileCompassOnSaveListener(sublime_plugin.EventListener):
             return
 
         # setting timeout so that the normal save message doesn't overwrite our status
-        sublime.set_timeout(functools.partial(sublime.status_message, "Compass compiled"), 500)        
+        sublime.set_timeout(functools.partial(sublime.status_message, "Compass compiled"), 500)

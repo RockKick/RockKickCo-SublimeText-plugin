@@ -1,6 +1,6 @@
 ##Rock Kick Co. SublimeText Plugin
 
-Some tools to help make dev easier in SublimeText.
+Tools to streamline the workflow within SublimeText.
 
 ####Installation:
 Ensure [`git`](http://git-scm.com/) is installed on your local machine.
@@ -20,12 +20,6 @@ To receive the latest updates just `git pull origin master` from your plugin fol
 	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Rock Kick Co.
 	git pull origin master
 
-
-####Notifications:
-Notifications will appear in the status bar.
-
-![notification](http://f.cl.ly/items/3m0Z2V3P2a1V40443o2G/Screen%20Shot%202012-01-31%20at%204.32.29%20PM.png)
-
 ####Troubleshooting:
 If your plugin is still pointed at an old repository you can point it at this one:
 
@@ -33,6 +27,7 @@ If your plugin is still pointed at an old repository you can point it at this on
 	git config remote.origin.url git@github.com:Rock Kick Co./RockKickCo-SublimeText-plugin.git
 	git pull origin master
 
-
 ####Recommended Packages:
 For js and php lint check (syntax checking) try:  [SublimeLinter](http://github.com/Kronuz/SublimeLinter)
+
+To handle all your trailing spaces issues, try: [TrailingSpace](https://github.com/SublimeText/TrailingSpaces)
