@@ -6,7 +6,7 @@ Some tools to help make dev easier in SublimeText.
 Ensure [`git`](http://git-scm.com/) is installed on your local machine.
 
 	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
-	git clone git@github.vimeows.com:Vimeo/Vimeo-SublimeText-plugin.git Rock\ Kick\ Co.
+	git clone git@github.com:RockKickCo/RockKickCo-SublimeText-plugin.git Rock\ Kick\ Co.
 	Restart SublimeText.  All plugin features are enabled by default
 
 ####Enable/Disable Features:
